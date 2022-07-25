@@ -6,6 +6,6 @@
   "total" : 2053,
   "success": 1678,
   "failure": 350,
-  "Waiting": 20,
+  "Waiting": 20, 
   "cancell": 5
 }
