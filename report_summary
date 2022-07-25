@@ -2,11 +2,11 @@
 {
   "id": 0,
   "custid" : testid01,
-  "subscriber_id" : "000"
-  "date" : "202207"
-  "total" : 2053
+  "subscriber_id" : "000",
+  "date" : "202207",
+  "total" : 2053,
   "success": 1678,
   "failure": 350,
   "Waiting": 20,
-  "cancell": 5,
+  "cancell": 5
 }
