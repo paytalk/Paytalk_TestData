@@ -1,0 +1,27 @@
+{
+    "type" : "month",
+    "data": [
+      {
+        "id": 0,
+        "user_id" : "testid01",
+        "subscriber_id" : "000",
+        "search_req" : "2022/07",
+        "total_amount" : 1034400,
+        "amounts":[
+          {
+            "amount": 164400
+          },
+          {
+            "amount": 270000
+          },
+          {
+            "amount": 250000
+          },
+          {
+            "amount": 350000
+          }
+        ]
+      }
+    ]
+  
+}
