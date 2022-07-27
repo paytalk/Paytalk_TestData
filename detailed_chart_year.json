@@ -1,26 +1,16 @@
 {
-  "type" : "year",
-  "data": [
-    {
-      "id": 0,
-      "user_id" : "testid01",
-      "subscriber_id" : "000",
-      "payload" : "2022",
-      "total_amount" : 103440000,
-      "amounts":[
-        {
-          "amount": 16440000
-        },
-        {
-          "amount": 27000000
-        },
-        {
-          "amount": 25000000
-        },
-        {
-          "amount": 35000000
-        }
-      ]
-    }
-  ]
+  "data": {
+    "id": 0,
+    "cust_id" : "testid01",
+    "subscriber_id" : "000",
+    "payload" : "2022",
+    "total_amount" : "42,550,000",
+    "amounts":[
+      {
+        "this_year": "14,350,000",
+        "1_year": "15,100,000",
+        "2_year": "13,100,000",
+      }
+    ]
+  }
 }
