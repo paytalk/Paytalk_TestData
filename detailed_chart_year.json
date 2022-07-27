@@ -5,6 +5,7 @@
     "subscriber_id" : "000",
     "payload" : "2022",
     "total_amount" : "42,550,000",
+    "avg_amount" : "14,183,330",
     "amounts":[
       {
         "this_year": "14,350,000",
