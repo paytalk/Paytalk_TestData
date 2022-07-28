@@ -1,0 +1,20 @@
+{
+    "data": {
+        "id": 0,
+        "cust_id" : "testid01",
+        "subscriber_id" : "000",
+        "search_req" : "2022/08",
+        "total_amount" : 114800000,
+        "avg_amount" : 14350000,
+        "amounts":[
+            {"month": 10100000},
+             {"month": 15100000},
+             {"month": 13100000},
+             {"month": 15100000},
+             {"month": 14100000},
+             {"month": 15100000},
+             {"month": 15100000},
+             {"month": 17100000}
+        ]
+    }
+}
