@@ -4,13 +4,11 @@
     "cust_id" : "testid01",
     "subscriber_id" : "000",
     "payload" : "2022",   
-    "avg_member" : "40",
+    "avg_member" : 40,
+    "first_year" : 35,
     "amounts":[
-      {
-        "this_year": "35",
-        "1_year": "46",
-        "2_year": "39"
-      }
+      {"year": 46},
+      {"year": 39}
     ]
   }
 }
