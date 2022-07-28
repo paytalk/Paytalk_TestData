@@ -1,6 +1,6 @@
 개발 전 Json 더미데이터
 
-- report_summary.json = 리포트 요약(건수)
+- report_summary = 리포트 요약(건수)
 
 - detailed_chart_member_month = 리포트 상세(월간 회원 수 + 평균)
 
@@ -12,4 +12,4 @@
 
 - detailed_chart_year = 리포트 상세(연간 수납금액 + 합계 + 평균)
 
-- transaction_Academy.json = 리포트 거래내역
+- transaction_Academy = 리포트 거래내역
