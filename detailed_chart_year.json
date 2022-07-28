@@ -4,14 +4,12 @@
     "cust_id" : "testid01",
     "subscriber_id" : "000",
     "payload" : "2022",
-    "total_amount" : "42,550,000",
-    "avg_amount" : "14,183,330",
+    "total_amount" : 42550000,
+    "avg_amount" : 14183330,
     "amounts":[
-      {
-        "this_year": "14,350,000",
-        "1_year": "15,100,000",
-        "2_year": "13,100,000"
-      }
+      {"year": 14350000},
+      {"year": 15,100,000},
+      {"year": 13,100,000}
     ]
   }
 }
