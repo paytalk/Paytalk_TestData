@@ -4,18 +4,16 @@
         "cust_id" : "testid01",
         "subscriber_id" : "000",
         "search_req" : "2022/08",
-        "total_amount" : "39",
+        "total_amount" : 39,
         "amounts":[
-            {
-              "1": "40",
-              "2": "35",
-              "3": "43",
-              "4": "44",
-              "5": "41",
-              "6": "38",
-              "7": "33",
-              "8": "40"
-            }
+            {"month": 40},
+            {"month": 35},
+            {"month": 43},
+            {"month": 44},
+            {"month": 41},
+            {"month": 38},
+            {"month": 33},
+            {"month": 40}
         ]
     }
 }
