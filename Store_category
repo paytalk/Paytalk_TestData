@@ -1,0 +1,12 @@
+{
+  "data": [
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/1.png", name : "키즈", id : "store_cat01"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/2.png", name : "시니어", id : "store_cat02"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/3.png", name : "보험", id : "store_cat03"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/4.png", name : "학원", id : "store_cat04"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/5.png", name : "생필품", id : "store_cat05"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/6.png", name : "반려동물", id : "store_cat06"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/7.png", name : "헬스케어", id : "store_cat07"},
+      {image: "https://github.com/paytalk/Paytalk_TestData/tree/main/categoryImage/8.png", name : "기부", id : "store_cat08"},
+    ]
+}
