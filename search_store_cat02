@@ -3,7 +3,7 @@
     {
       "image": "categoryImage/2.png",
       "name": "성내종합 사회복지관 클래스(춤, 체조, 요가, 한글)",
-      "price": "월 25,000원",
+      "price": "월 4,200원",
       "id": "senior_class_01"
     },
     {
@@ -20,15 +20,15 @@
     },
     {
       "image": "categoryImage/2.png",
-      "name": "AI 돌봄 로봇 구독서비스(케비)",
-      "price": "월 41,900원",
-      "id": "senior_AI_01"
+      "name": "키오스크 체험교육",
+      "price": "월 4,900원",
+      "id": "senior_class_04"
     },
     {
       "image": "categoryImage/2.png",
       "name": "AI 돌봄 로봇 구독서비스(빈큐)",
       "price": "월 24,900원",
-      "id": "senior_AI_02"
+      "id": "senior_AI_01"
     },
     {
       "image": "categoryImage/2.png",
