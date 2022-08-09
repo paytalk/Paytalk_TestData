@@ -1,7 +1,7 @@
 {
   "data": {
-    "market1_title":"지금 뜨고있는 구톡",
-    "product":[
+    "market1_title":"지금 뜨고있는 구독",
+    "product":[ 
         {
          image: "Marketing_sub1/1.png", 
          name : "삼성 에어컨",
