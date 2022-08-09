@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "addr_name": "집",
+      "name": "박지혜",
+      "addr": "경기도 과천시 별양동 93(과천자이아파트)",
+      "addr_detail": "118-1101호",
+      "defalut" : true
+    },
+    {
+      "addr_name": "집",
+      "name": "정수혁",
+      "addr": "경기도 수원시 영통구 도청로 24(광교자연앤힐스테이트)",
+      "addr_detail": "102동 1024호",
+      "defalut" : false
+    },
+    {
+      "addr_name": "회사",
+      "name": "박명석",
+      "addr": "서울시 서초구 매헌로 24(농협전산정보)",
+      "addr_detail": "5층 블루레이커스",
+      "defalut" : false
+    }
+  ]
+}
