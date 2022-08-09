@@ -34,6 +34,13 @@
       "new_msg": "고양이 사료 (30일) 구독서비스를 신청하셨습니다",
       "chat_date" : "8월10일",
       "chat_cnt": "0",
+    },
+    {
+      "profile_img": "SalesDetail/블루비즈.png",
+      "chat_name": "밀크T아이",
+      "new_msg": "문의하신 밀크T아이 유아 12개월 구독상품의 남은 기간은 8개월 입니다.",
+      "chat_date" : "8월17일",
+      "chat_cnt": "0",
     }
   ]
 }
