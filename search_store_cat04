@@ -7,5 +7,5 @@
       {image: "categoryImage/2.png", name : "밀크T아이 12개월(유아)", price : "월 149,000원", id : "milk_T_01"},
       {image: "categoryImage/1.png", name : "밀크T아이 12개월(초등)", price : "월 139,000원", id : "milk_T_02"},
       {image: "categoryImage/2.png", name : "밀크T아이 12개월(중학)", price : "월 149,000원", id : "milk_T_03"},
-    ]
+    ] 
 }
