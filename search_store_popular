@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id":  "cafe_machine_01",
+      "name": "필립스 1200 시리즈 전자동 에스프레소 커피 머신 대여"
+    },
+      {
+      "id": "digital_machine_01",
+      "name": "[삼성] 비스포크 AI 그랑데 건조기 19kg 대여",
+    },
+    {
+      "id": "digital_machine_02",
+      "name": "[LG] 트롬 스타일러 일반용량 대여",
+    },
+    {
+      "id": "clean_visit_01",
+      "name": "집 정기 청소 월 1회",
+    },
+    {
+      "id": "petpack_01",
+      "name": "펫팩_프리미엄(현대카드 한정)",
+    },
+    {
+      "id":  "fitness_care_01",
+      "name": "웨이트 트레이닝 PT 월 20회"
+    },
+  ]
+}
