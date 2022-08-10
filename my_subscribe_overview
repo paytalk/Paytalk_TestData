@@ -1,5 +1,5 @@
 {
-    "total_amount":0,
+    "total_amount":"5개/총액 126,300원",
     "data":[
         {
         "id": "digital_machine_02",
@@ -14,10 +14,10 @@
         "id": "miwpow_02"
         },
         {
-         image: "Marketing_sub1/4.png", 
-         name : "초정 탄산수(6입)", 
-         price : "1회 8,000원", 
-         id : "market1_04"
+         "image": "Marketing_sub1/4.png", 
+         "name" : "초정 탄산수(6입)", 
+         "price" : "1회 8,000원", 
+         "id" : "market1_04"
          },
 
         {
