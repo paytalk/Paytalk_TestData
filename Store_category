@@ -7,6 +7,6 @@
       {image: "categoryImage/5.png", name : "생활용품", id : "store_cat05"},
       {image: "categoryImage/6.png", name : "반려동물", id : "store_cat06"},
       {image: "categoryImage/7.png", name : "헬스케어", id : "store_cat07"},
-      {image: "categoryImage/8.png", name : "기부", id : "store_cat08"},
+      {image: "categoryImage/8.png", name : "기부", id : "store_cat08"}
     ]
 }
